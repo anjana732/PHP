@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 80%;
+    background-color: rgb(199, 175, 221);
+    padding: 34px;
+    margin: auto;
+}
+.container h2,p{
+    text-align: center;
+}
+input, textarea{
+    width: 80%;
+    margin: 11px 0px;
+    padding: 7px;
+    font-size: 12px;
+    border: 1px solid black;
+    border-radius: 5px;
+    outline: none;
+    display: block;
+}
